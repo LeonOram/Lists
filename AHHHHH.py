@@ -9,4 +9,4 @@ players =[
     ["hAxOr12",72,30]
     ]
 
-get_rows_col(players)
+def fors(list)
